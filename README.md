@@ -11,7 +11,7 @@ Se houver interesse em praticar os laboratórios, sugiro baixar o **Linux** que 
  
 - Linux customizado para as aulas: a) Link 1 [xbnet-2.9](https://nuvem.utfpr.edu.br/index.php/s/Up1aZm0RFPpmKWr); b) Link 2 [xbnet-2.9](https://drive.google.com/file/d/1V4tdBn8-RQPDYvhrDSvxvGHQ6tXQ7irw/view?usp=sharing).
 
-Além disso, em cada pasta deste repositório disponibilizei não somente os **laboratórios** usados nas videoaulas, mas laboratórios adicionais que podem ser úteis para fixação de conteúdo. Alguns laboratórios, inclusive, foram utilizados em avaliações, portanto sintam-se desafiados(as) a resolvê-los. 
+Além disso, neste respositório disponibilizei **laboratórios** adicionais que podem ser úteis para fixação de conteúdo. Alguns laboratórios, inclusive, foram utilizados em avaliações. Portanto, sintam-se desafiados(as) a resolvê-los!
 
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
