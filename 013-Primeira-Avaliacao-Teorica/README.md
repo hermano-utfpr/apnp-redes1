@@ -24,6 +24,8 @@ Cenário: Um usuário em uma estação pretende acessar uma impressora na rede. 
   
 ![](./fig15.png)  
 
+Responda: Como serão preenchidos os endereços em um pacote ARP neste caso?
+
 (  )
 
 \- Remetente Hardware: c0:4a:00:75:86:0b  

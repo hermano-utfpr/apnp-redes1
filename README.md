@@ -1,6 +1,6 @@
 # Atividades Pedagógicas Não Presenciais - Redes 1
 
-APNP - Atividades Pedagógicas Não Presenciais - **Redes 1** - Aulas, Atividades e Laboratórios. Conteúdo remoto utilizado em período pandêmico - ano 2020 - Curso TSI - UTFPR-GP.
+Este projeto hospeda as Aulas, Atividades e Laboratórios das Atividades Pedagógicas Não Presenciais (APNP) - **Redes 1**. Conteúdo remoto que foi utilizado em período pandêmico - ano 2020 - Curso TSI - UTFPR-GP.
 
 Caros(as) alunos(as), neste repositório disponibilizei um material que pode ser útil para o aprendizado em **Redes de Computadores**, segue uma sugestão de organização dos estudos:
 
