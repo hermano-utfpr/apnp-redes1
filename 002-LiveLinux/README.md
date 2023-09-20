@@ -16,8 +16,8 @@ Sugestão: utilize dd, ou [Rufus](https://rufus.ie/pt_BR/).
 
 *cuidado*
 Exemplo, gerar um Pendrive via Linux:
-`:~$ dd if=xbnet2.9.iso of=/dev/sdb`
--> Importante: certifique-se de que "/dev/sdb" é o dispositivo pendrive para não perder dados em seu computador (use o comando "fdisk -l").
+`:~$ dd if=xbnet2.9.iso of=/dev/sdX`
+-> Importante: certifique-se de que "/dev/sdX" é o dispositivo pendrive para não perder dados em seu computador (use o comando `fdisk -l`).
 *cuidado* 
 
 Reinicie o seu computador e selecione a opção de Boot Primário para inicializar o sistema operacional a partir do seu DVD ou Pendrive (USB). 
