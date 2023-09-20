@@ -1,4 +1,4 @@
-# Laboratório de Estudo 1B
+# Lab. Estudo 1B - Modelos de Referência
 
 Tema: Protocolos e Modelos de Referência
 

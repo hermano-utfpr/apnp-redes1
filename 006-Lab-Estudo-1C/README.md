@@ -1,4 +1,4 @@
-# Laboratório de Estudo 1C
+# Lab. Estudo 1C - Comutação Ethernet e ARP
 
 Tema: Comutação, Protocolos Ethernet e ARP.
 
@@ -25,12 +25,12 @@ Nesta topologia temos dispositivos de rede de nível 1 (Hub) e de nível 2 (Swit
 Somente o Switch permitirá carregar a tabela Hash para visualização.
 
 Pesquise:
-Para entender a principal diferença entre o Hub e o Switch pesquise sobre "Domínios de Colisão", utilize a Seção de Materiais neste site.
+Para entender a principal diferença entre o Hub e o Switch pesquise sobre "Domínios de Colisão".
 
 Você saberia responder:
 Quantos são os domínios de colisão nesta topologia? 
 
-Passo 3
+**Passo 3**
 
 Utilize o comando "ifconfig" em cada um dos desktops e descubra o seguinte:
 
@@ -39,7 +39,7 @@ Utilize o comando "ifconfig" em cada um dos desktops e descubra o seguinte:
 
 Sugestão: utilize papel e caneta, pois desenhar a topologia pode ajudar na resolução de problemas.
 
-Passo 4
+**Passo 4**
 
 Utilize o script ethernet.py!
 
@@ -52,10 +52,12 @@ Todos os desktops possuem um script python que permite enviar quadros Ethernet s
 `# cat ethernet.py`
 
 Para utilizar esse script basta executar:
+
 `# py ethernet.py`
+
 O próprio script lhe apresentará instruções de como usá-lo.
 
-Passo 5
+**Passo 5**
 
 Bom, agora é o momento de você explorar a topologia para entender como os dispositivos se comunicam. Vai depender da sua curiosidade e da sua desenvoltura para o aprendizado.
 
@@ -69,7 +71,7 @@ c) Analise como as tabelas Hash dos switches são construídas.
 
 d) Desafio: como enviar um quadro entre o desktop1 e o desktop4 cujo conteúdo não pode ser capturado pelos outros desktops.
 
-Passo 6
+**Passo 6**
 
 Laboratório Prático:
 

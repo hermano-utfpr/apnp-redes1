@@ -1,4 +1,4 @@
-# Laboratório de Estudo 1A
+# Lab. Estudo 1A - Modelos de Referência
 
 Tema: Protocolos e Modelos de Referência
 
@@ -19,23 +19,33 @@ Faça o download do laboratório abaixo e execute no livelinux:
 O laboratório provavelmente foi salvo em "/home/estudante/Downloads".
 
 `$ cd /home/estudante/Downloads`
+
 `$ pwd`
+
 `$ ls`
 
 Descompacte:
+
 `$ tar -xvzf lab_estudo_1a.tar.gz`
+
 `$ ls`
 
 Acesse:
+
 `$ cd lab_estudo_1a`
+
 `$ ls`
 
 Execute:
+
 `$ py lab.py`
+
 O script solicitará para ser executado como root (senha abc123) e pedirá para preencher o seu nome:
+
 `$ sudo py lab.py SeuNome`
 
 Faça a opção por um dos três sistemas: reactos, slitaz ou debian, exemplo:
+
 `$ sudo py lab.py SeuNome debian`
 
 Aguarde o laboratório carregar!
