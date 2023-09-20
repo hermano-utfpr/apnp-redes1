@@ -12,7 +12,7 @@ Objetivo: resolver laboratórios práticos e obter seus tickets.
 
 4) Assim que resolver um laboratório salve seu ticket;
 
-*Curiosidade: uma vez que o laboratório era resolvido, o mesmo gerava um ticket/comprovante o qual continha informações cifradas sobre sua solução, o qual eu utilizava para validar se o(a) aluno(a) havia resolvido a prova.*
+*Curiosidade: uma vez que o laboratório era resolvido, o mesmo gerava um ticket/comprovante que continha informações cifradas sobre sua solução, o qual eu utilizava para validar se o(a) aluno(a) havia resolvido a prova.*
 
 5) Procure fechar cada laboratório clicando no "x" da janela que foi carregada, assim você não precisará reiniciar o LiveLinux;
 

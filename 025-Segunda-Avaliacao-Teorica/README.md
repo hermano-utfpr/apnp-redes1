@@ -1,11 +1,17 @@
 # Primeira Avaliação - Teórica 
 
 **Conteúdo:**
+
 \- Modelos ISO/OSI e TCP/IP (básico)
+
 \- Protocolos Ethernet e ARP (básico)
+
 \- Protocolo IP
+
 \- Roteamento IP
+
 \- Protocolo ICMP
+
 \- Listas de Exercícios 2A e 2B
 
 Bom teste! :)
