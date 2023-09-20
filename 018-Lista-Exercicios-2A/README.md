@@ -19,13 +19,9 @@
 7) Qual a utilidade do Pacote ARP para o Protocolo IP?
 
 8) Identifique e explique como funciona cada um dos seguintes dispositivos:
-
 a) Router
-
 b) Hub
-
 c) Bridge
-
 d) Switch
 
 9) O que o é roteamento? Como funciona? Procure por uma tabela de roteamento na Internet e explique a utilidade do endereço de destino e do endereço de gateway.
