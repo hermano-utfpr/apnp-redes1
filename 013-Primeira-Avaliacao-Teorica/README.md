@@ -16,6 +16,8 @@ Bom teste! :)
 
 **Questões**
 
+* * *
+
 15
 
 Cenário: Um usuário em uma estação pretende acessar uma impressora na rede. A imagem abaixo ilustra os dispositivos e seus endereços. A estação precisará fazer a primeira resolução de endereço da impressora e para isso será necessário utilizar o protocolo ARP.  
@@ -64,13 +66,19 @@ Cenário: Um usuário em uma estação pretende acessar uma impressora na rede. 
 \- Alvo Hardware: 172.20.20.147  
 \- Alvo Protocolo: 172.20.20.17
 
-(X)
+(  )
 
 \- Remetente Hardware: 64:1c:67:68:e5:db  
 \- Remetente Protocolo: 172.20.20.147  
 \- Alvo Hardware: 00:00:00:00:00:00  
 \- Alvo Protocolo: 172.20.20.17
 
+(  )
+
+\- Remetente Hardware: 64:1c:67:68:e5:db  
+\- Remetente Protocolo: 172.20.20.147  
+\- Alvo Hardware: 00:00:00:00:00:00  
+\- Alvo Protocolo: 172.20.20.147
 (  )
 
 \- Remetente Hardware: 64:1c:67:68:e5:db  
@@ -140,7 +148,7 @@ b) 2 dispositivos L1
 c) 3 dispositivos L2  
 d) Todos os micros
 
-(X)
+(  )
 
 a) 4 domínios de colisão  
 b) 3 dispositivos L1  
@@ -241,7 +249,7 @@ Protocolo Ethernet
 \- Length/Type: tamanho total da carga útil ou tipo de protocolo da camada superior.  
 \- Frame Check Sequence: soma de verificação do datagrama para a detecção de erros.
 
-(X)
+(  )
 
 Protocolo Ethernet  
 \- Destination/Source Address: identificar destino e origem.  
@@ -258,7 +266,7 @@ Responda de acordo com a figura abaixo que foi retirada do Padrão IEEE 802.3:
   
 Qual frase está correta?
 
-(X)
+(  )
 
 É um quadro e os campos Destination/Source Address são preenchidos com endereços MACs.
 
@@ -364,7 +372,7 @@ Quais frases estão corretas de acordo com os protocolos e suas unidades de dado
 \- O wireshark fez a captura de um A1 do protocolo B1.  
 \- Houve a perda de um C1 do protocolo A2.
 
-( X )
+(  )
 
 \- Os dados que você digitou serão enviados através de uma C3 do protocolo B1.  
 \- Após a análise dos endereços encontrados no B4 do C4 é que o A3 foi encaminhado.  
@@ -449,7 +457,7 @@ De acordo com os campos destacados na figura, qual seria uma configuração vál
 2 - 255.255.255.0  
 1 - 200.201.10.1
 
-(X)
+(  )
 
 4 - 200.201.10.53  
 3 - 200.201.10.254  
@@ -526,7 +534,7 @@ micro4# ping 172.20.0.11
 
 172.20.0.11 00:e0:d1:a5:48:94
 
-(X)
+(  )
 
 172.20.0.11 00:e0:d1:a5:48:94  
 172.20.0.13 00:e0:d1:81:c7:21
@@ -583,7 +591,7 @@ A3 <- Roteamento
 B1 <- Datagrama  
 B2 <- Cabo Par Trançado
 
-(X)
+(  )
 
 A2 <- HTTP  
 C3 <- Confiabilidade  
@@ -669,7 +677,7 @@ Modelo X é o Modelo ISO/OSI e o Modelo Y é o Modelo TCP/IP.
 \- Camada 4 de X corresponde à Camada 3 de Y e  
 \- Camadas 5, 6 e 7 de X correspondem à Camada 4 de Y.
 
-(X)
+(  )
 
 Modelo X é o Modelo ISO/OSI e o Modelo Y é o Modelo TCP/IP.  
 \- Camadas 1 e 2 de X correspondem à Camada 1 de Y,  
@@ -746,7 +754,7 @@ Protocolo IP:
 \- Os campos PT, PAL, THA e TPA podem ser usados para endereçamento ARP.  
 \- O campo OC é usado para marcar o pacote como "reply" ou "request".
 
-(X)
+(  )
 
 Protocolo ARP:  
 \- Os campos HT, HAL, SHA e THA podem ser usados para endereçamento MAC.  
@@ -855,7 +863,7 @@ C - Processo de Encapsulamento
 D - Executa o Protocolo Ethernet  
 E - Tratamento de Mensagens
 
-(X)
+(  )
 
 A - Meio Físico  
 B - Camada de Transporte  
@@ -893,7 +901,7 @@ C, B, G, D
 
 H, G, A, C
 
-(X)
+(  )
 
 D, G, I, B
 
@@ -951,7 +959,7 @@ Um quadro (C) encapsula uma mensagem (D); um datagrama (B) encapsula um quadro (
 
 Um datagrama (D) encapsula um quadro (C); um quadro (C) encapsula um segmento (B); e um segmento (B) encapsula uma mensagem (A).
 
-(X)
+(  )
 
 Um segmento (C) encapsula uma mensagem (D); um datagrama (B) encapsula um segmento (C); e um quadro (A) encapsula um datagrama (B).
 
@@ -981,7 +989,7 @@ A figura abaixo apresenta as camadas e as suas funções, porém não está orga
   
 Quais seriam as funções corretas de cada uma das camadas apresentadas? (considere siglas)
 
-(X)
+(  )
 
 CR <- ER  
 CF <- MFS  
@@ -1073,7 +1081,7 @@ a) Se uma unidade de dados de protocolo (PDU) originada de 00:E0:00:B1:B1:B1 for
 b) Se uma unidade de dados de protocolo (PDU) originada de 00:E0:00:B1:B1:B1 for enviada para o endereço FF:FF:FF:FF:FF:FF, quais micros irão receber essa informação?  
 c) Essa unidade de dados de protocolo (PDU) das perguntas anteriores é: um datagrama, um quadro ou um segmento?
 
-(X)
+(  )
 
 a) Micros 1, 2, 4, 5 e 6  
 b) Micros 1, 2, 4, 5 e 6  
@@ -1134,3 +1142,5 @@ b) Micros 1, 2 e 4
 c) Segmento
 
 * * *
+
+15=7; 14=7; 13=10; 12=1; 11=9; 10=9; 9=10; 8=7; 7=7; 6=6; 5=9; 4=4; 3=6; 2=1; 1=1.
