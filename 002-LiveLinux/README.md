@@ -12,13 +12,15 @@ a) Link 1 [xbnet-2.9](https://nuvem.utfpr.edu.br/index.php/s/Up1aZm0RFPpmKWr); b
 
 Utilize as ferramentas para gerar um novo LiveDVD ou novo LivePendrive:
 
-Sugestão: utilize dd, ou [Rufus](https://rufus.ie/pt_BR/). [Ventoy](https://www.ventoy.net/en/index.html) também é uma opção.
+Sugestão: utilize dd, ou [Rufus](https://rufus.ie/pt_BR/). 
 
-*cuidado*
+[Ventoy](https://www.ventoy.net/en/index.html) também é uma opção interessante, permite várias ISOs no mesmo pendrive.
+
+*Cuidado!*
 Exemplo, gerar um Pendrive via Linux:
 `:~$ dd if=xbnet2.9.iso of=/dev/sdX`
 -> Importante: certifique-se de que "/dev/sdX" é o dispositivo pendrive para não perder dados em seu computador (use o comando `fdisk -l`).
-*cuidado* 
+*Cuidado!* 
 
 Reinicie o seu computador e selecione a opção de Boot Primário para inicializar o sistema operacional a partir do seu DVD ou Pendrive (USB). 
 
@@ -52,9 +54,7 @@ Pressione a tecla TAB no momento de carregamento do GRUB.
 
 Adicione o comando "toram" conforme abaixo:
 
-`> /casper/vmlinuz file=/cdrom/preseed/custom.seed boot=casper initrd=/casper/initrd.gz quiet splash **toram** --`
+`> /casper/vmlinuz file=/cdrom/preseed/custom.seed boot=casper initrd=/casper/initrd.gz quiet splash toram --`
 
 Este comando irá copiar todo o Live Linux para a memória RAM. 
-
-
 
