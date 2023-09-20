@@ -26,7 +26,7 @@ Objetivo: resolver laboratórios práticos e obter seus tickets.
 
 Ajude Bob a ter acesso à Internet. 
 
-![](./lab_avaliaca_1a.png)
+![](./lab_avaliacao_1a.png)
 
 [lab_avaliacao_1a.tar.gz](./lab_avaliacao_1a.tar.gz)
 
@@ -34,7 +34,7 @@ Ajude Bob a ter acesso à Internet.
 
 Faça o mapeamento de protocolos e camadas. 
 
-![](./lab_avaliaca_1b.png)
+![](./lab_avaliacao_1b.png)
 
 [lab_avaliacao_1b.tar.gz](./lab_avaliacao_1b.tar.gz)
 
@@ -42,7 +42,7 @@ Faça o mapeamento de protocolos e camadas.
 
 Explore os quadros e realize comunicações ponto-a-ponto. 
 
-![](./lab_avaliaca_1c.png)
+![](./lab_avaliacao_1c.png)
 
 [lab_avaliacao_1c.tar.gz](./lab_avaliacao_1c.tar.gz)
 
@@ -50,7 +50,7 @@ Explore os quadros e realize comunicações ponto-a-ponto.
 
 Capture os quadros e faça o levantamento das informações. 
 
-![](./lab_avaliaca_1d.png)
+![](./lab_avaliacao_1d.png)
 
 [lab_avaliacao_1d.tar.gz](./lab_avaliacao_1d.tar.gz)
 
@@ -58,7 +58,7 @@ Capture os quadros e faça o levantamento das informações.
 
 Identifique o endereçamento das máquinas de seus colegas. 
 
-![](./lab_avaliaca_1e.png)
+![](./lab_avaliacao_1e.png)
 
 [lab_avaliacao_1e.tar.gz](./lab_avaliacao_1e.tar.gz)
 
