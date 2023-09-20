@@ -1,4 +1,4 @@
-#  Lista Exercícios 1B - Comutação Ethernet e ARP
+# Lista Exercícios 1B - Comutação Ethernet e ARP
 
 1) Responda de acordo com o protocolo IEEE 802.3 (Ethernet):
 a) Em qual camada dos Modelo ISO/OSI se encontra este protocolo?
