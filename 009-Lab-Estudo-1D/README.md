@@ -67,7 +67,7 @@ Agora um faça um teste duplicando endereços IPs propositalmente. Como você fa
 
 Laboratórios Práticos:
 
-Caso queira treinar antes da prova, você pode testar os seus conhecimentos com os laboratórios abaixo como se estivesse fazendo a prova prática: 
+Caso queira treinar antes da prova, você pode testar os seus conhecimentos com os laboratórios abaixo como se estivesse fazendo a prova prática:  
 
 ![](./lab_prat_1d_1.png)
 
