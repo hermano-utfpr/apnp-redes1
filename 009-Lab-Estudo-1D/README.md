@@ -1,4 +1,4 @@
-#  Lab. Estudo 1D - Comutação Ethernet e ARP
+# Lab. Estudo 1D - Comutação Ethernet e ARP
 
 Tema: Comutação, Protocolos Ethernet e ARP.
 
@@ -27,10 +27,13 @@ Utilize o comando ifconfig para endereçar os dispositivos, exemplo:
 `# ifconfig eth0 192.168.0.1 netmask 255.255.255.0 up`
 
 Pesquise:
+
 Como funciona o protocolo ARP e qual é a diferença entre endereços físicos e lógicos?
 
 Você saberia responder:
+
 Em qual camada do Modelo OSI se encontra o endereço físico?
+
 Em qual camada do Modelo OSI se encontra o endereço lógico?
 
 **Passo 3**

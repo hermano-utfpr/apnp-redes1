@@ -12,7 +12,7 @@ a) Link 1 [xbnet-2.9](https://nuvem.utfpr.edu.br/index.php/s/Up1aZm0RFPpmKWr); b
 
 Utilize as ferramentas para gerar um novo LiveDVD ou novo LivePendrive:
 
-Sugestão: utilize dd, ou [Rufus](https://rufus.ie/pt_BR/).
+Sugestão: utilize dd, ou [Rufus](https://rufus.ie/pt_BR/). [Ventoy](https://www.ventoy.net/en/index.html) também é uma opção.
 
 *cuidado*
 Exemplo, gerar um Pendrive via Linux:
@@ -24,7 +24,7 @@ Reinicie o seu computador e selecione a opção de Boot Primário para inicializ
 
 **Utilizar o LiveLinux como Máquina Virtual:**
 
-Tanto VirtualBox como VMWare são boas opções para criar uma máquina virtual para rodar o Live Linux:
+Tanto VirtualBox como VMWare são boas opções para criar uma máquina virtual para rodar o LiveLinux:
 
 Sugestão:
 -> Máquina Linux (Ubuntu) 64 bits
@@ -33,6 +33,8 @@ Sugestão:
 -> Não precisa de vHD
 -> Colocar o arquivo ISO como Boot em Drive Óptico
 Faça diversos testes, procure otimizar o melhor possível de acordo com o seu hardware. 
+
+No Ubuntu, uma boa opção é o Virt-Manager: `sudo apt-get install virt-manager`.
 
 **Execute um laboratório de exemplo no LiveLinux:**
 
