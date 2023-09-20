@@ -1,4 +1,4 @@
-#  Lab. Aula 02 - Laboratório Ethernet/ARP
+# Lab. Aula 02 - Laboratório Ethernet/ARP
 
 **Passo 1**
 
