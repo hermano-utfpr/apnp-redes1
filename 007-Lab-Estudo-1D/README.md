@@ -69,8 +69,13 @@ Laboratórios Práticos:
 
 Caso queira treinar antes da prova, você pode testar os seus conhecimentos com os laboratórios abaixo como se estivesse fazendo a prova prática: 
 
+![](./lab_prat_1d_1.png)
 
+[lab_prat_1d_1.tar.gz](./lab_prat_1d_1.tar.gz)
 
+![](./lab_prat_1d_2.png)
+
+[lab_prat_1d_2.tar.gz](./lab_prat_1d_2.tar.gz)
 
 Bons estudos!!! :-}
 
