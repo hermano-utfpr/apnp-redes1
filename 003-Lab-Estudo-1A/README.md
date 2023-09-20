@@ -18,17 +18,17 @@ Faça o download do laboratório abaixo e execute no livelinux:
 
 O laboratório provavelmente foi salvo em "/home/estudante/Downloads".
 
-`$ cd /home/estudante/Downloads
-$ pwd
-$ ls`
+`$ cd /home/estudante/Downloads`
+`$ pwd`
+`$ ls`
 
 Descompacte:
-`$ tar -xvzf lab_estudo_1a.tar.gz
-$ ls`
+`$ tar -xvzf lab_estudo_1a.tar.gz`
+`$ ls`
 
 Acesse:
-`$ cd lab_estudo_1a
-$ ls`
+`$ cd lab_estudo_1a`
+`$ ls`
 
 Execute:
 `$ py lab.py`
