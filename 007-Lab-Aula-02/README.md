@@ -41,16 +41,25 @@ ethernet.py
 Para gerar datagramas IP é possível utilizar o hping3 ou o sendip, exemplos:
 
 `# hping3 -0 -H 255 -e "Mensagem" 10.0.0.10 -c 1`
+
 -0 (raw IP)
+
 -e (carga útil)
+
 -c (contador, quantidade de datagramas)
+
 -H (protocolo camada superior ao IP, 255 é desconhecido/reservado)
 
 `# sendip -p ipv4 -is 10.0.0.1 -ip 255 -d "Mensagem" -v 10.0.0.2`
+
 -p (protocolo)
+
 -is (ip de origem)
+
 -ip (protocolo camada superior ao IP)
+
 -d (carga útil)
+
 -v (ip de destino)
 
 Utilize o tcpdump para capturar quadros e datagramas. 
