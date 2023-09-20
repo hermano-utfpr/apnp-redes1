@@ -36,9 +36,9 @@ Faça diversos testes, procure otimizar o melhor possível de acordo com o seu h
 
 **Execute um laboratório de exemplo no LiveLinux:**
 
-`estudante@estudante$ cd lab\_tutorial`
+`estudante@estudante$ cd lab_tutorial`
 
-`estudante@estudante/lab\_tutorial$ sudo py lab.py SeuNome`
+`estudante@estudante/lab_tutorial$ sudo py lab.py SeuNome`
 
 Nesse laboratório serão necessários 2GB de RAM para carregar os dispositivos "router" e "server". Para carregar também os "desktops" é necessário que o seu computador tenha 4GB de RAM. 
 

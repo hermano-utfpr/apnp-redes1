@@ -89,7 +89,9 @@ Carregue a ferramenta wireshark e busque capturar as informações geradas pelos
 - Hypertext Transfer Protocol (HTTP)
 - Domain Name System (DNS)
 
-Busque saber sobre a utilidade de cada um dos protocolos e, principalmente, mapeá-los nos Modelos TCP/IP e ISO/OSI. Veja a Seção de Materiais deste site.
+Busque saber sobre a utilidade de cada um dos protocolos e, principalmente, mapeá-los nos Modelos TCP/IP e ISO/OSI.
+
+Vídeo: [Ilustração de Encapsulamento com Modelo ISO/OSI](https://www.youtube.com/watch?v=pINMJxNX1q4).
 
 **Passo 7**
 
@@ -102,9 +104,11 @@ Laboratórios Práticos:
 Caso queira treinar antes da prova, você pode testar os seus conhecimentos com os laboratórios abaixo como se estivesse fazendo a prova prática: 
 
 ![](./lab_prat_1a_1.png)
+
 [lab_prat_1a_1.tar.gz](./lab_prat_1a_1.tar.gz)
 
 ![](./lab_prat_1a_2.png)
+
 [lab_prat_1a_2.tar.gz](./lab_prat_1a_2.tar.gz)
 
 Bons estudos!!! :-}
