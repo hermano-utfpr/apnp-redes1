@@ -1,6 +1,6 @@
 # 002 - LiveLinux - xbnet 2.9
 
-xbnet (Xubuntu Network LiveLinux) é uma distribuição Linux preparada para as aulas de Redes de Computadores do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR Câmpus Guarapuava. 
+Xubuntu Network LiveLinux (xbnet) é uma distribuição Linux preparada para as aulas de Redes de Computadores do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR Câmpus Guarapuava. 
 
 É possível executar essa distribuição a partir de DVD ou Pendrive e trabalhar com diversos laboratórios de Redes através da virtualização de estações, servidores, switches e roteadores. 
 
