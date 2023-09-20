@@ -1,4 +1,4 @@
-#  Primeira Avaliação - Prática
+# Primeira Avaliação - Prática
 
 Objetivo: resolver laboratórios práticos e obter seus tickets. 
 
