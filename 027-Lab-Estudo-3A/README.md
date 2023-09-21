@@ -3,9 +3,11 @@
 Tema: Endereçamento IP
 
 Objetivo:
+
 Aprender a endereçar dispositivos de redes quando há máscaras com tamanhos variáveis (VLSM).
 
 Enunciado:
+
 Busque solucionar o endereçamento de rede que utiliza máscaras de classe C de /25 à /30. Carregue o laboratório e faça diversos testes para melhor assimilação.
 
 **Passo 1**
