@@ -7,23 +7,16 @@
 3) Relacione os protocolos TCP e UDP ao Modelo TCP/IP e ao Modelo ISO/OSI.
 
 4) Explique como funcionam os seguintes mecanismos do protocolo TCP:
-
 a) Conexão e desconexão
-
 b) Retransmissão de segmentos
-
 c) Controle de congestionamento
-
 d) Detecção de erros
 
 5) Quais são as unidades de dados dos protocolos TCP e UDP? Datagrama ou Segmento?
 
 6) Em que momento no processo de encapsulamento/desencapsulamento as seguintes identificações são úteis? Explique.
-
 a) Endereçamento MAC
-
 b) Endereçamento IP
-
 c) Número dos Portos
 
 7) Compare a configuração de roteamento entre sistemas Linux e ambiente Cisco (ou Quagga). (comandos necessários para fazer o roteamento estático)
