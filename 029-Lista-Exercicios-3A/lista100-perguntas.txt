@@ -1,0 +1,1735 @@
+[pre]
+###########################################################################
+
+Lista dos 100 exercícios de endereçamento IP. (Perguntas)
+
+Para o bom entendimento, resolver todos os exercícios na seqüência.
+
+As redes e endereços IPs abaixo, são apenas ilustrativos.
+
+Autor: Hermano Pereira (26/09/2007)
+
+###########################################################################
+
+Endereçamento IP - 001/100
+
+Dado o endereço IP abaixo, encontre:
+
+10.0.0.0
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 002/100
+
+Dado o endereço IP abaixo, encontre:
+
+192.0.0.0
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 003/100
+
+Dado o endereço IP abaixo, encontre:
+
+172.0.250.0
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 004/100
+
+Dado o endereço IP abaixo, encontre:
+
+89.46.12.55
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 005/100
+
+Dado o endereço IP abaixo, encontre:
+
+189.251.33.147
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 006/100
+
+Dado o endereço IP abaixo, encontre:
+
+221.0.15.29
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 007/100
+
+Dado o endereço IP abaixo, encontre:
+
+140.135.19.234/8
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 008/100
+
+Dado o endereço IP abaixo, encontre:
+
+37.38.39.40/24
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 009/100
+
+Dado o endereço IP abaixo, encontre:
+
+222.0.222.255/16
+
+Rede      =
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP - 010/100
+
+Dado o endereço IP abaixo, encontre:
+
+100.100.100.100/16
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 011/100
+
+Dado o endereço IP abaixo, encontre:
+
+117.103.47.28/9
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 012/100
+
+Dado o endereço IP abaixo, encontre:
+
+150.145.222.31/17
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 013/100
+
+Dado o endereço IP abaixo, encontre:
+
+200.1.1.100/25
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 014/100
+
+Dado o endereço IP abaixo, encontre:
+
+149.98.80.14/18
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 015/100
+
+Dado o endereço IP abaixo, encontre:
+
+219.240.240.240/26
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+###########################################################################
+
+Endereçamento IP 016/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+120.150.210.255/10
+
+Número    =
+
+Rede      = 
+
+Máscara   =
+
+Broadcast =
+
+Intervalo =
+
+#########################################################################
+
+Endereçamento IP 017/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+14.183.255.255/11
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 018/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+195.0.201.100/27
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 019/100
+
+Dado o endereço IP abaixo, encontre:
+
+160.170.62.65/19
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 020/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+200.200.200.210/28
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 021/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+180.0.0.1/20
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 022/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+100.100.255.255/12
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 023/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+139.210.188.0/21
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 024/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+10.50.100.150/13
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 025/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+200.192.145.249/29
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 026/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+200.0.0.174/30
+
+Número    = 
+
+Rede      =
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 027/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+54.141.239.210/14
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 028/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+170.170.231.231/22
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 029/100  	 
+	 
+Dado o endereço IP abaixo, encontre:
+
+77.101.49.33/15
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 030/100  	 
+	  	 
+Dado o endereço IP abaixo, encontre:
+
+190.130.199.201/23
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 031/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+200.200.200.200/31
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 032/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+51.198.31.190/9
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 033/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+170.170.170.0/18
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 034/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+199.0.1.99/27
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 035/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+66.1.1.220/10
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 036/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+139.39.139.255/19
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 037/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+195.10.0.92/28
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 038/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+80.200.255.255/11
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 039/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+171.0.222.1/20
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 040/100 	 
+
+Dado o endereço IP abaixo, encontre:
+
+213.98.54.67/29
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 041/100  	 
+
+Do o endereço IP abaixo, encontre:
+
+21.30.11.21/12
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 042/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+172.201.10.5/21
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 043/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+200.201.100.101/30
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 044/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+9.115.39.211/13
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 045/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+188.81.181.88/22
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 046/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+202.0.0.202/31
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 047/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+20.230.0.255/14
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 048/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+135.210.138.1/23
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 049/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+194.90.45.121/25
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 050/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+30.20.10.0/15
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 051/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+129.127.129.127/17
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 052/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+193.127.255.127/26
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+#########################################################################
+
+Endereçamento IP 053/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+188.0.115.255/20
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 054/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+201.150.31.15/31
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 055/100 	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+9.150.0.1/9
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 056/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+144.7.9.10/21
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 057/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+221.21.1.112/25
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 058/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+100.47.190.9/15
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 059/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+189.1.200.1/19
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 060/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+201.0.100.155/30
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 061/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+51.201.11.89/10
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 062/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+190.45.137.99/22
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 063/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+223.170.0.34/26
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 064/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+70.43.180.0/14
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 065/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+160.180.0.150/18
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 066/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+200.201.39.167/29
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 067/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+20.0.0.1/11
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 068/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+162.198.254.190/23
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 069/100  	 
+  	  	 
+Dado o endereço IP abaixo, encontre:
+
+192.168.100.190/27
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 070/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+5.240.67.81/13
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 071/100  	 
+ 	  	 
+Dado o endereço IP abaixo, encontre:
+
+172.16.211.130/17
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 072/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+202.0.10.239/28
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 073/100  	 
+
+Dado o endereço IP abaixo, encontre:
+
+1.111.111.11/12
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 074/100  	 
+  	  	 
+Dado o bloco de endereço IP abaixo:
+
+120.0.0.0
+
+Divida em 2 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 075/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+180.100.0.0
+
+Divida em 4 sub-redes,
+identificando cada uma:
+
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 076/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+201.0.10.0
+
+Divida em 8 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 077/100  	 
+  	  	 
+Dado o bloco de endereço IP abaixo:
+
+155.155.0.0
+
+Divida em 16 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 078/100  	 
+  	  	 
+Dado o bloco de endereço IP abaixo:
+
+9.0.0.0
+
+Divida em 32 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 079/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+200.200.200.128/29
+
+Subdivida em 2 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 080/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+170/21
+
+Subdivida em 4 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 081/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+201.100.64/22
+
+Subdivida em 8 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 082/100  	 
+  	  	 
+Dado o bloco de endereço IP abaixo:
+
+35.128/9
+
+Subdivida em 2 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 083/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+220/27
+
+Subdivida em 4 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 084/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+10.192/14
+
+Subdivida em 8 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 085/100  	 
+
+Dado o bloco de endereço IP abaixo:
+
+64.64/10
+
+Subdivida em 4 sub-redes,
+identificando cada uma:
+
+Número    = 
+
+Rede      = 
+
+Máscara   = 
+
+Broadcast = 
+
+Intervalo = 
+
+IPs atrib.=  (total de ips atribuíveis)
+
+#########################################################################
+
+Endereçamento IP 086/100  	 
+
+Dado o endereço IP 141.208.177.210/23, qual é o endereço de sub-rede?  
+(calcular mentalmente)	 
+ 
+#########################################################################
+
+Endereçamento IP 087/100  	 
+
+Dado o endereço IP 91.133.254.10/15, qual é o endereço de sub-rede? 
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 088/100  	 
+  	  	 
+Dado o endereço IP 200.200.200.200/30, qual é o endereço de sub-rede? 	 
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 089/100  	 
+  	  	 
+Dado o endereço IP 15.241.210.137/14, qual é o endereço de sub-rede? 
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 090/100  	 
+  	  	 
+Dado o endereço 129.201.162.49/21, qual é o endereço de sub-rede? 	 
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 091/100  	 
+  	  	 
+Dado o endereço IP 44.4.44.4/13, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 092/100  	 
+  	  	 
+Dado o endereço IP 35.177.135.53/12, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 093/100  	 
+  	  	 
+Dado o endereço IP 190.201.29.240/19, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 094/100  	 
+
+Dado o endereço IP 7.49.144.10/11, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 095/100  	 
+  	  	 
+Dado o endereço IP 199.201.15.69/26, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 096/100  	 
+  	  	 
+Dado o endereço IP 149.249.149.5/18, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 097/100  	 
+  	  	 
+Dado o endereço IP 210.135.240.117/25, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 098/100  	 
+  	  	 
+Dado o endereço IP 171.227.190.39/17, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 099/100  	 
+  	  	 
+Dado o endereço IP 80.100.201.48/9, qual é o endereço de sub-rede?
+(calcular mentalmente)
+
+#########################################################################
+
+Endereçamento IP 100/100  	 
+
+0/1, 128/2 e 192/3 representam respectivamente:
+
+#########################################################################
+
+Parabéns!!!
+
+#########################################################################
+
+[/pre]
