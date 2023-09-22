@@ -1,10 +1,25 @@
 # 002 - LiveLinux - xbnet 2.9
 
-Xubuntu Network LiveLinux (xbnet) é uma distribuição Linux preparada para as aulas de Redes de Computadores do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR Câmpus Guarapuava. 
+Xubuntu Network LiveLinux (xbnet) é uma distribuição Linux preparada para as aulas de Redes de Computadores do curso de Tecnologia em Sistemas para Internet (TSI) da UTFPR Câmpus Guarapuava. Trata-se de uma modificação do Xubuntu 16.04. 
 
 É possível executar essa distribuição a partir de DVD ou Pendrive e trabalhar com diversos laboratórios de Redes através da virtualização de estações, servidores, switches e roteadores. 
 
 Hardware recomendado: mínimo de 2 núcleos e 4GB de memória RAM. 
+
+**Utilizar o LiveLinux como Máquina Virtual:**
+
+Tanto VirtualBox como VMWare são boas opções para criar uma máquina virtual para rodar o LiveLinux:
+
+Sugestão:
+-> Máquina Linux (Ubuntu) 64 bits
+-> Mínimo de 4GB de vRAM
+-> Mínimo de 2 vCPUs
+-> Não precisa de vHD
+-> Colocar o arquivo ISO como Boot em Drive Óptico
+Faça diversos testes, procure otimizar o melhor possível de acordo com o seu hardware. 
+
+No Ubuntu, uma boa opção é o Virt-Manager: `sudo apt-get install virt-manager`.
+
 
 **Baixar o arquivo ISO e gerar um LiveLinux:**
 
@@ -23,20 +38,6 @@ Exemplo, gerar um Pendrive via Linux:
 *Cuidado!* 
 
 Reinicie o seu computador e selecione a opção de Boot Primário para inicializar o sistema operacional a partir do seu DVD ou Pendrive (USB). 
-
-**Utilizar o LiveLinux como Máquina Virtual:**
-
-Tanto VirtualBox como VMWare são boas opções para criar uma máquina virtual para rodar o LiveLinux:
-
-Sugestão:
--> Máquina Linux (Ubuntu) 64 bits
--> Mínimo de 4GB de vRAM
--> Mínimo de 2 vCPUs
--> Não precisa de vHD
--> Colocar o arquivo ISO como Boot em Drive Óptico
-Faça diversos testes, procure otimizar o melhor possível de acordo com o seu hardware. 
-
-No Ubuntu, uma boa opção é o Virt-Manager: `sudo apt-get install virt-manager`.
 
 **Execute um laboratório de exemplo no LiveLinux:**
 
