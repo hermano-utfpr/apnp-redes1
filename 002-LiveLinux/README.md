@@ -6,24 +6,28 @@ Xubuntu Network LiveLinux (xbnet) é uma distribuição Linux preparada para as 
 
 Hardware recomendado: mínimo de 2 núcleos e 4GB de memória RAM. 
 
+**Download da Imagem:**
+
+a) Link 1 [xbnet-2.9](https://nuvem.utfpr.edu.br/index.php/s/Up1aZm0RFPpmKWr); 
+
+b) Link 2 [xbnet-2.9](https://drive.google.com/file/d/1V4tdBn8-RQPDYvhrDSvxvGHQ6tXQ7irw/view?usp=sharing).
+
 **Utilizar o LiveLinux como Máquina Virtual:**
 
 Tanto VirtualBox como VMWare são boas opções para criar uma máquina virtual para rodar o LiveLinux:
 
 Sugestão:
--> Máquina Linux (Ubuntu) 64 bits
--> Mínimo de 4GB de vRAM
--> Mínimo de 2 vCPUs
--> Não precisa de vHD
--> Colocar o arquivo ISO como Boot em Drive Óptico
+- Máquina Linux (Ubuntu) 64 bits
+- Mínimo de 4GB de vRAM
+- Mínimo de 2 vCPUs
+- Não precisa de vHD
+- Colocar o arquivo ISO como Boot em Drive Óptico
 Faça diversos testes, procure otimizar o melhor possível de acordo com o seu hardware. 
 
-No Ubuntu, uma boa opção é o Virt-Manager: `sudo apt-get install virt-manager`.
+*No Ubuntu, uma boa opção é o Virt-Manager: `sudo apt-get install virt-manager`.
+Carregar Virt-Manager -> File -> New Virtual Machine -> Local install media -> (Forward) -> Choose ISO: procurar arquivo extensão .iso -> Browse Local -> Selecionar -> Choose the Operating System: Generic or Unknown OS -> Forward -> Preencher CPU e RAM -> Forward -> Não habilitar Storage -> Forward -> Nomear VM -> Finish.*
 
-
-**Baixar o arquivo ISO e gerar um LiveLinux:**
-
-a) Link 1 [xbnet-2.9](https://nuvem.utfpr.edu.br/index.php/s/Up1aZm0RFPpmKWr); b) Link 2 [xbnet-2.9](https://drive.google.com/file/d/1V4tdBn8-RQPDYvhrDSvxvGHQ6tXQ7irw/view?usp=sharing).
+**Gerar um Pendrive/DVD com LiveLinux:**
 
 Utilize as ferramentas para gerar um novo LiveDVD ou novo LivePendrive:
 
@@ -57,5 +61,5 @@ Adicione o comando "toram" conforme abaixo:
 
 `> /casper/vmlinuz file=/cdrom/preseed/custom.seed boot=casper initrd=/casper/initrd.gz quiet splash toram --`
 
-Este comando irá copiar todo o Live Linux para a memória RAM. 
+Este comando irá copiar todo o LiveLinux para a memória RAM. 
 
