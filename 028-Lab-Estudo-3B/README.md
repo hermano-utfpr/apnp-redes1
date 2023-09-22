@@ -20,7 +20,9 @@ Faça o download da lista de exercícios de endereçamento IP:
 
 Gere os endereços IPs que serão atribuídos na lista utilizando o script:
 
-[gerarips.pl](gerarips.pl)
+[gerarips.tar.gz](gerarips.tar.gz)
+
+`tar -xvzf gerarips.tar.gz`
 
 `perl gerarips.pl`
 
