@@ -24,11 +24,15 @@ Objetivo: resolver laboratórios práticos e obter seus tickets.
 
 **Laboratório 4A**
 
+Favor! Configure o roteador com protocolo RIP! 
+
 ![](./lab_avaliacao_4a.png)
 
 [lab_avaliacao_4a.tar.gz](./lab_avaliacao_4a.tar.gz)
 
 **Laboratório 4B**
+
+Caro ISP, favor configurar redundância com OSPF! 
 
 ![](./lab_avaliacao_4b.png)
 
@@ -36,13 +40,15 @@ Objetivo: resolver laboratórios práticos e obter seus tickets.
 
 **Laboratório 4C**
 
+Favor consertar o roteamento em nossa rede. 
+
 ![](./lab_avaliacao_4c.png)
 
 [lab_avaliacao_4c.tar.gz](./lab_avaliacao_4c.tar.gz)
 
 **Laboratório 4D**
 
-Vamos inspecionar datagramas e segmentos? 
+Precisamos que você configure o roteador da Filial de nossa empresa! 
 
 ![](./lab_avaliacao_4d.png)
 
@@ -50,7 +56,7 @@ Vamos inspecionar datagramas e segmentos?
 
 **Laboratório 4E**
 
-Estamos com problemas na rede do Colégio! Poderia nos ajudar? 
+Agora sim, um verdadeiro desafio! Roteamento e NAT! 
 
 ![](./lab_avaliacao_4e.png)
 
