@@ -18,13 +18,13 @@ Além disso, neste respositório disponibilizei **laboratórios** adicionais que
 
 Conteúdo:
 - Modelos de Referência
-- Comutação Ethernet e ARP
+- Comutação Ethernet e Protocolo ARP
 - Protocolo e Roteamento IP
 - Roteamento IP e Protocolo ICMP
 - Endereçamento IP
 - Roteamento IP e Protocolos TCP/UDP
-- Protocolos de Roteamento
-- Endereçamento para Internet
+- Protocolos de Roteamento (RIP/OSPF)
+- Endereçamento para Internet (DHCP/NAT)
 
 * * *
 
