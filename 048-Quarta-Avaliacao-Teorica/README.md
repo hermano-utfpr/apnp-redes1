@@ -696,4 +696,7 @@ O protocolo OSPF está na B2 e implementa o A2.
 
 * * *
 
+<details><summary></summary>
+
 10=10; 9=8; 8=6; 7=2; 6=3; 5=5; 4=2; 3=4; 2=10; 1=10.
+</details>
