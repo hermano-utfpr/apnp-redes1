@@ -14,6 +14,20 @@ Se houver interesse em praticar os laboratórios, sugiro baixar o **Linux** que 
 
 Além disso, neste respositório disponibilizei **laboratórios** adicionais que podem ser úteis para fixação de conteúdo. Alguns laboratórios, inclusive, foram utilizados em avaliações. Portanto, sintam-se desafiados(as) a resolvê-los!
 
+* * *
+
+Conteúdo:
+- Modelos de Referência
+- Comutação Ethernet e ARP
+- Protocolo e Roteamento IP
+- Roteamento IP e Protocolo ICMP
+- Endereçamento IP
+- Roteamento IP e Protocolos TCP/UDP
+- Protocolos de Roteamento
+- Endereçamento para Internet
+
+* * *
+
 Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano
