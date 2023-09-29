@@ -952,4 +952,5 @@ c) origem 37231 e destino 80
 <details><summary></summary>
 
 13=5; 12=1; 11=8; 10=3; 9=6; 8=5; 7=10; 6=6; 5=5; 4=7; 3=10; 2=1; 1=6.
+
 </details>
