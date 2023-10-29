@@ -32,11 +32,3 @@ Se eu puder e souber como ajudar, é só contatar! Bons estudos!
 
 Prof. Hermano
 
-* * * 
-
-Se este projeto foi útil de alguma maneira. Que acha de pagar-me um café?! Obrigado :)
-
-Pix: c85aa557-fc19-4768-9d1e-478ba7ea5b08
-
-![](pix.jpg)
-
